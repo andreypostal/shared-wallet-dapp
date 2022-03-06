@@ -1,6 +1,6 @@
 # Shared Wallet Dapp
 
-Just a fast first dapp to play with it and learn something, idk, it has a lot to improve but it was fun as a first contact project. I'm 100% sure that soon i will find some fancy solution for the tricks that i had to sometimes.
+Just a fast first dapp to play with it and learn something, idk, it has a lot to improve but it was fun as a first contact project. I'm 100% sure that soon i will find some fancy solution for the tricks that i had to do sometimes.
 
 ![Shared Wallet Demo](img/show.gif)
 
